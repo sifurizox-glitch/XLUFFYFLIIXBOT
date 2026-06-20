@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-06-19 10:28:24",
+        "action": "broadcast",
+        "user_id": 8570832903,
+        "details": "Broadcasted to 2 users."
+    },
+    {
+        "timestamp": "2026-06-19 10:31:38",
+        "action": "broadcast",
+        "user_id": 8570832903,
+        "details": "Broadcasted to 2 users."
+    },
+    {
+        "timestamp": "2026-06-19 10:42:17",
+        "action": "broadcast",
+        "user_id": 8570832903,
+        "details": "Broadcasted to 2 users."
+    },
+    {
+        "timestamp": "2026-06-19 12:30:33",
+        "action": "redeem",
+        "user_id": 8570832903,
+        "details": "Redeemed Netflix: d696df44-73bb-4471-bf7e-83de8426f825"
+    },
+    {
+        "timestamp": "2026-06-19 12:31:59",
+        "action": "redeem",
+        "user_id": 8570832903,
+        "details": "Redeemed CC: dc542941-2c33-4f43-a523-1d3621e12cd9"
+    },
+    {
+        "timestamp": "2026-06-19 12:41:28",
+        "action": "redeem",
+        "user_id": 8570832903,
+        "details": "Redeemed Netflix: f2d56cb1-6878-4b63-b8c9-004f59a70b3c"
+    },
+    {
+        "timestamp": "2026-06-19 14:28:15",
+        "action": "ui_redeem",
+        "user_id": 8570832903,
+        "details": "Redeemed .PRIMEVIDEO.COM: 8f5ce44a-7e93-4850-b58b-28f3fe6db439"
+    }
+]
